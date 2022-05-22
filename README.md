@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrisdwight
 - 👀 I’m interested in improving my frontend developement skills.
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on as many projects as possible.
+- 🤝 I’m looking to collaborate on as many projects as possible.
 - 📫 How to reach me: christopherrdwightt@gmail.com
 
 <!---
